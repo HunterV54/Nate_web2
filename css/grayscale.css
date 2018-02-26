@@ -78,6 +78,7 @@ a:focus, a:hover {
   text-transform: uppercase;
   border-bottom: 1px soli d rgba(255, 255, 255, 0.3);
   background-color: black;
+  
 }
 
 #mainNav .navbar-toggler {
@@ -170,11 +171,11 @@ a:focus, a:hover {
 }
 
 .masthead .intro-body .brand-heading {
-  font-size: 50px;
+  font-size: 75px;
 }
 
 .masthead .intro-body .intro-text {
-  font-size: 18px;
+  font-size: 30px;
 }
 
 @media (min-width: 768px) {
@@ -186,7 +187,7 @@ a:focus, a:hover {
     font-size: 100px;
   }
   .masthead .intro-body .intro-text {
-    font-size: 22px;
+    font-size: 40px;
   }
 }
 
@@ -261,10 +262,10 @@ a:focus, a:hover {
 }
 
 .btn-default:focus, .btn-default:hover {
-  color: black;
+  color: white;
   border: 1px solid white;
   outline: none;
-  background-color: White;
+  background-color: black;
 }
 
 ul.banner-social-buttons {
