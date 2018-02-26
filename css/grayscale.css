@@ -219,11 +219,11 @@ a:focus, a:hover {
 }
 
 /* Listings section */
-
+/*behind photos*/
 .download-section {
   color: white;
-  background: url("../css/list1.jpg") no-repeat center center scroll;
-  background-color: black;
+  background: url("../css/.jpg") no-repeat center center scroll;
+  background-color: #3B9CD0;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
