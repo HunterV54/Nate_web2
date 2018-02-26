@@ -222,8 +222,8 @@ a:focus, a:hover {
 /*behind photos*/
 .download-section {
   color: white;
-  background: url("../css/.jpg") no-repeat center center scroll;
-  background-color: #3B9CD0;
+ /* background: url("../css/.jpg") no-repeat center center scroll;*/
+  background-color: rgb(59, 156, 208);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
